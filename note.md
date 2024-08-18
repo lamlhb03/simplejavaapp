@@ -1,4 +1,4 @@
-git init
+git init <br>
 echo "text" >> file.ext
 git add file.ext
 git commit -m "message commit"
