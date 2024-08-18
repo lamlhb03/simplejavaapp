@@ -1,8 +1,8 @@
 git init <br>
-echo "text" >> file.ext
-git add file.ext
-git commit -m "message commit"
-git push -u origin main
-git branch -M branchx
-git remote rm origin
-git remote add origin https://github.com/lamlhb03/javaapp.git
+echo "text" >> file.ext <br>
+git add file.ext <br>
+git commit -m "message commit"<br>
+git push -u origin main<br>
+git branch -M branchx<br>
+git remote rm origin<br>
+git remote add origin https://github.com/lamlhb03/javaapp.git<br>
